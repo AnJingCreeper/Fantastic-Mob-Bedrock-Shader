@@ -1,7 +1,7 @@
 # Fantastic Mob Bedrock Shader
 
 #### Description
-A fantastic shader of Minecraft Bedrock Editon develop by GLSL and HLSL. So It can work on PE and Window10 Edtion.
+A fantastic shader of Minecraft Bedrock Editon develop by GLSL and HLSL. So It can work on PE and Windows10 Edtion.
 
 #### Software Architecture
 Develop by GLSL and HLSL.
