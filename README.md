@@ -2,16 +2,17 @@
 
 #### 介绍
 A fantastic shader of Minecraft Bedrock Editon develop by GLSL and HLSL. So It can work on PE and Window10 Edtion.
+一个用GLSL和HLSL开发的炫酷的基岩版着色器，可以再PE和Windows 10版本上运行。
 
 #### 软件架构
-软件架构说明
+使用GLSL和HLSL开发。
 
 
 #### 安装教程
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 选择效果然后下载
+2. 复制到资源包的目录下
+3. 体验！
 
 #### 使用说明
 
@@ -19,19 +20,8 @@ A fantastic shader of Minecraft Bedrock Editon develop by GLSL and HLSL. So It c
 2. xxxx
 3. xxxx
 
-#### 参与贡献
+#### 注意事项
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.请勿上传到其他平台
+2.商用需要通知本人
+3.如果有任何问题，欢迎加入我们的QQ群：542391871
