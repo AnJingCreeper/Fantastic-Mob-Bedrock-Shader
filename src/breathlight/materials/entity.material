@@ -42,13 +42,13 @@
 		"dbrt_nocull:dbrt": {
 			"+states": [ "DisableCulling" ]
 		},
-		"dbrt_highlight:dbrt_nocull":{
+		"dbrt_breathlight:dbrt_nocull":{
 			"+defines":[
-				"HIGH_LIGHT"
+				"BREATH_LIGHT"
 			]
 		},
 		//test material
-	    "enderman:dbrt_highlight": {
+	    "enderman:dbrt_breathlight": {
 		}
 	}
 }
