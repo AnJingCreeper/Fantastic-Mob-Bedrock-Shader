@@ -7,8 +7,11 @@ A fantastic shader of Minecraft Bedrock Editon of mobs develop in GLSL and HLSL.
 Develop by GLSL and HLSL.
 
 #### Example
-1.Hight Light
-![Hight Light](https://gitee.com/AnJingCreeper/Fantastic-Mob-Bedrock-Shader/blob/master/src/highlight/demo.png "在这里输入图片标题")
+1.High Light
+![High Light](https://images.gitee.com/uploads/images/2019/0306/112139_90f6a7eb_1850205.png "demo.png")
+
+2.Breath Light
+![Breath Light](https://images.gitee.com/uploads/images/2019/0306/112215_6a42afe2_1850205.gif "demo.gif")
 #### Installation
 
 1. Choose effect and download
