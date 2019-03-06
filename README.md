@@ -7,7 +7,12 @@ A fantastic shader of Minecraft Bedrock Editon develop by GLSL and HLSL. So It c
 #### 软件架构
 使用GLSL和HLSL开发。
 
+#### 效果示例
+1.High Light
+![High Light](https://images.gitee.com/uploads/images/2019/0306/112139_90f6a7eb_1850205.png "demo.png")
 
+2.Breath Light
+![Breath Light](https://images.gitee.com/uploads/images/2019/0306/112440_d7914b21_1850205.gif "demo.gif")
 #### 安装教程
 
 1. 选择效果然后下载
