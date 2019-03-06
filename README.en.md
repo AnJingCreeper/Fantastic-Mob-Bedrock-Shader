@@ -11,7 +11,7 @@ Develop by GLSL and HLSL.
 ![High Light](https://images.gitee.com/uploads/images/2019/0306/112139_90f6a7eb_1850205.png "demo.png")
 
 2.Breath Light
-![Breath Light](https://images.gitee.com/uploads/images/2019/0306/112215_6a42afe2_1850205.gif "demo.gif")
+![Breath Light](https://images.gitee.com/uploads/images/2019/0306/112440_d7914b21_1850205.gif "demo.gif")
 #### Installation
 
 1. Choose effect and download
