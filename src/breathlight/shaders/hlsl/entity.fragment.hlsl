@@ -162,7 +162,8 @@ void main(in PS_Input PSInput, out PS_Output PSOutput)
 
 
 #ifdef BREATH_LIGHT
-	if(color.r+color.g+color.b+color.a>=4.0f){
+	if(color.r+color.g+color.b+color.a<=0.0)
+	{
 		discard;
 	}
 	color *= lerp( float( 1.0 ).xxxx, PSInput.light, clamp(color.a+abs(sin(TOTAL_REAL_WORLD_TIME)),0.0f,1.0f));

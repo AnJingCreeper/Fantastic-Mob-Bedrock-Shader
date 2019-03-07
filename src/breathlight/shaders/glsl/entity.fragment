@@ -142,7 +142,7 @@ void main()
 #endif
 
 #ifdef BREATH_LIGHT
-	if(color.r+color.g+color.b+color.a>=4.0)
+	if(color.r+color.g+color.b+color.a<=0.0)
 	{
 		discard;
 	}

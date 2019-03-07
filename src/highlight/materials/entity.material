@@ -44,7 +44,8 @@
 		},
 		"dbrt_highlight:dbrt_nocull":{
 			"+defines":[
-				"HIGH_LIGHT"
+				"ALPHA_TEST",
+				"USE_EMISSIVE"
 			]
 		},
 		//test material
