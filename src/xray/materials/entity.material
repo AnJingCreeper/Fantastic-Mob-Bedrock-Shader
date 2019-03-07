@@ -1,0 +1,54 @@
+//***FANTASTIC MOB MCBE SHADER***//
+//Develop by AnJingCreeper
+
+{
+	"materials":{
+		"version":"1.0.0",
+		
+		"dbrt_static":{
+		  "vertexShader": "shaders/entity.vertex",
+		  "vrGeometryShader": "shaders/entity.geometry",
+		  "fragmentShader": "shaders/entity.fragment",
+		  "vertexFields": [
+			{ "field": "Position" },
+			{ "field": "Normal" },
+			{ "field": "UV0" }
+		  ],
+		  "variants": [
+			{
+			  "skinning": {
+				"+defines": [ "USE_SKINNING" ],
+				"vertexFields": [
+				  { "field": "Position" },
+				  { "field": "BoneId0" },
+				  { "field": "Normal" },
+				  { "field": "UV0" }
+				]
+			  }
+			}
+		  ],
+		  "msaaSupport": "Both",
+		  "+samplerStates": [
+			{
+			  "samplerIndex": 0,
+			  "textureFilter": "Point"
+			}
+		  ]
+		},
+		"dbrt:dbrt_static": {
+			"+defines": [ "USE_OVERLAY" ],
+			"msaaSupport": "Both"
+		},
+		"dbrt_nocull:dbrt": {
+			"+states": [ "DisableCulling" ]
+		},
+		"dbrt_xray:dbrt_nocull":{
+			"+defines":[
+				"X_RAY"
+			]
+		},
+		//test material
+	    "creeper:dbrt_xray": {
+		}
+	}
+}
