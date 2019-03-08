@@ -13,6 +13,10 @@ A fantastic shader of Minecraft Bedrock Editon develop by GLSL and HLSL. So It c
 
 2.Breath Light
 ![Breath Light](https://images.gitee.com/uploads/images/2019/0306/112440_d7914b21_1850205.gif "demo.gif")
+
+3.X_Ray
+![X-Ray](https://images.gitee.com/uploads/images/2019/0308/194022_6975b5d8_1850205.png "demo.png")
+
 #### 安装教程
 
 1. 选择效果然后下载
