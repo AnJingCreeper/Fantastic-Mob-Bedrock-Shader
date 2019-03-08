@@ -12,8 +12,11 @@ Develop by GLSL and HLSL.
 
 2.Breath Light
 ![Breath Light](https://images.gitee.com/uploads/images/2019/0306/112440_d7914b21_1850205.gif "demo.gif")
-#### Installation
 
+3.X_Ray
+![X-Ray](https://images.gitee.com/uploads/images/2019/0308/194022_6975b5d8_1850205.png "demo.png")
+
+#### Installation
 1. Choose effect and download
 2. Copy shader and material to resource pack
 3. Enjoy！
