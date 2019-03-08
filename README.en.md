@@ -25,4 +25,4 @@ Develop by GLSL and HLSL.
 3. xxxx
 
 #### Notice
-1.Please don't upload other platform.
+1.Please don't upload to other platform.
